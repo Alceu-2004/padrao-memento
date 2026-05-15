@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compilação Java
+out/
+build/
+target/
+
+# Logs
+*.log
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
